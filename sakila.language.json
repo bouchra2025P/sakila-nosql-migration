@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "68704d13cfbcf4dd4db042da"
+  },
+  "language_id": 1,
+  "name": "English             ",
+  "last_update": {
+    "$date": "2006-02-15T05:02:19.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68704d13cfbcf4dd4db042db"
+  },
+  "language_id": 2,
+  "name": "Italian             ",
+  "last_update": {
+    "$date": "2006-02-15T05:02:19.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68704d13cfbcf4dd4db042dc"
+  },
+  "language_id": 3,
+  "name": "Japanese            ",
+  "last_update": {
+    "$date": "2006-02-15T05:02:19.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68704d13cfbcf4dd4db042dd"
+  },
+  "language_id": 4,
+  "name": "Mandarin            ",
+  "last_update": {
+    "$date": "2006-02-15T05:02:19.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68704d13cfbcf4dd4db042de"
+  },
+  "language_id": 5,
+  "name": "French              ",
+  "last_update": {
+    "$date": "2006-02-15T05:02:19.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68704d13cfbcf4dd4db042df"
+  },
+  "language_id": 6,
+  "name": "German              ",
+  "last_update": {
+    "$date": "2006-02-15T05:02:19.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68704d13cfbcf4dd4db042e0"
+  },
+  "language_id": 7,
+  "name": "Arabic              ",
+  "last_update": {
+    "$date": "2006-02-15T05:02:19.000Z"
+  }
+}]

@@ -1,0 +1,13 @@
+migration\Main.class
+migration\Actor.class
+migration\RedisService.class
+migration\MongoService.class
+migration\City.class
+migration\DatabaseConfig.class
+migration\Film.class
+migration\MongoConfig.class
+migration\PostgresService.class
+migration\Category.class
+migration\Language.class
+migration\Migrator.class
+migration\Country.class
