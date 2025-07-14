@@ -31,7 +31,7 @@ docker run -d --name mongo -p 27017:27017 mongo
 ## 📦 Installation
 
 📁 **Étapes suivantes** :
-1. Crée un fichier `README.md` dans ton dossier `sakila-migration/`.
+1. Crée un fichier `README.md` dans mon dossier `sakila-migration/`.
 2. Colle le contenu ci-dessus.
 3. Sauvegarde.
 4. Ajoute-le à mon dépôt Git :
