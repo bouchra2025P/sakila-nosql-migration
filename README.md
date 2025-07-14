@@ -7,6 +7,7 @@ Ce projet migre les données de la base PostgreSQL **sakila** vers :
 ## 🔧 Technologies utilisées
 
 - Java 21
+- Interface de NetBeans_21
 - Maven
 - PostgreSQL
 - Redis
@@ -22,6 +23,7 @@ Ce projet migre les données de la base PostgreSQL **sakila** vers :
 ### 1. 📦 Pré-requis
 
 - Java 21 installé
+- NetBeans 21
 - Maven installé ou fourni par NetBeans
 - PostgreSQL avec la base **sakila**
 - Redis installé ou lancé
@@ -40,7 +42,31 @@ docker run -d --name mongo -p 27017:27017 mongo
       git push
 
 
-5.Si vous souhaitez cloner ce projet depuis GitHub, utilisez la commande suivante:
+5.Si vous souhaitez cloner  cloner le projet avec  NetBeans 21:
+
+Ouvrez NetBeans 21
+
+Cliquez sur File > New Project...
+
+Dans la fenêtre qui s'ouvre, choisissez Java with Maven > Project from Git
+
+Dans le champ Repository URL, collez l'adresse suivante :
+
+https://github.com/bouchra2025P/sakila-migration.git
+
+Cliquez sur Next, choisissez un dossier local et terminez l’importation.
+
+NetBeans va automatiquement :
+
+Cloner le projet
+
+Télécharger les dépendances Maven
+
+Indexer le code pour l’exécution
+
+Une fois importé, vous pouvez exécuter le fichier Main.java pour lancer la migration.
+------------------------------ou bien------------------------------------------------
+ cloner ce projet depuis GitHub utilisez la commande suivante
 git clone https://github.com/bouchra2025P/sakila-migration.git
 cd sakila-migration
 ##Configurer la connexion PostgreSQL :
